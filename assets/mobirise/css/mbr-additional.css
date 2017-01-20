@@ -633,3 +633,86 @@ h6,
 #ext_menu-z .dropdown-item[aria-expanded="true"] {
   color: #c1c1c1!important;
 }
+#msg-box2-15 .mbr-section-title {
+  color: #fff;
+  font-size: 48px;
+}
+#msg-box2-15 .mbr-section-subtitle {
+  color: #ffffff;
+  font-size: 20px;
+}
+#features1-1b .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #c1c1c1;
+}
+#features1-1b .mbr-cards-col:nth-child(odd) .card-text {
+  color: #000000;
+  text-align: center;
+}
+#features1-1b .mbr-cards-col:nth-child(odd) .card-title {
+  color: #000000;
+}
+#features1-1b .mbr-cards-col:nth-child(even) .card-text {
+  text-align: center;
+}
+#ext_menu-17 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-17 .navbar-caption {
+  color: #ffffff;
+  font-size: 25px;
+}
+#ext_menu-17 .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-17 .close-icon::before,
+#ext_menu-17 .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-17 .link,
+#ext_menu-17 .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-17 .link {
+  font-size: 0.9rem;
+}
+#ext_menu-17 .dropdown-item,
+#ext_menu-17 .nav-dropdown-sm .link {
+  font-size: 0.975rem;
+}
+#ext_menu-17 .link:hover,
+#ext_menu-17 .dropdown-item:hover,
+#ext_menu-17 .link:focus,
+#ext_menu-17 .dropdown-item:focus {
+  color: #c1c1c1;
+}
+#ext_menu-17 .link[aria-expanded="true"],
+#ext_menu-17 .dropdown-menu {
+  background: #055b5b;
+}
+#ext_menu-17 .nav-dropdown-sm .link:focus,
+#ext_menu-17 .nav-dropdown-sm .link:hover,
+#ext_menu-17 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-17 .nav-dropdown-sm .dropdown-item:hover {
+  background: #077d7d!important;
+}
+#ext_menu-17 .navbar,
+#ext_menu-17 .nav-dropdown-sm,
+#ext_menu-17 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-17 .nav-dropdown-sm .dropdown-menu {
+  background: #088b8b;
+}
+#ext_menu-17 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-17 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-17 .bg-color.transparent.opened .link:hover,
+#ext_menu-17 .bg-color.transparent.opened .link:focus {
+  color: #c1c1c1;
+}
+#ext_menu-17 .link[aria-expanded="true"],
+#ext_menu-17 .dropdown-item[aria-expanded="true"] {
+  color: #c1c1c1!important;
+}
