@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Woodbridge Eye Care",
-    "currentPage": "Services.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11",
-    "uniqCompNum": 48,
+    "uniqCompNum": 56,
     "versionPublish": "3.11"
   },
   "pages": {
@@ -958,7 +958,7 @@
           "title1": "Comprehensive Eye Examinations",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Comprehensive Eye Examinations<br><br>Dilated Examinations<br><br>Pediatric Eye Examinations",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"ComprehensiveEyeExaminations.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -1142,6 +1142,228 @@
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-1a",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-20-at-8-128x64.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: info@woodbridge-eyecare.com<br>\nPhone: (972) 429-3501<br>Fax: (972)442-4916<br><br>",
+          "text3": "<p><strong>Hours</strong><br>M: 10-6<br>T:&nbsp;10-6<br>W: 10-7<br>Th: 10-6<br>F: 10-5<br>S: 9-4<br>Su: Closed</p>"
+        }
+      ]
+    },
+    "ComprehensiveEyeExaminations.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "font-size": "48px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-1c",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#088b8b",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
+          "title": "WOODBRIDGE EYE CARE",
+          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1j",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#000",
+            "showTitle": false,
+            "showCaption": true
+          },
+          "title": "",
+          "caption": "<p><b>Comprehensive Eye Examinations</b>&nbsp;</p><p>A comprehensive eye examination includes an extensive visual and medical case history and a complete analysis of your eye health. The exam includes a prescription for glasses, if needed, as well as a health assessment of the eyelids, cornea, iris, intraocular lens, vitreous, retina, and optic nerve. Dr. Nguyen will take the time to ensure that you achieve clear and comfortable vision with your new prescription. Intra-ocular pressures are measure to screen for glaucoma. A dilated fundus examination is included, which allows a more thorough view inside the eyes.At Woodbridge Eye Care, we use the latest technologies to monitor our patients eyes health. The automated visual field test assesses your peripheral vision which can be linked to a variety of eye diseases. Many eye and brain disorders can cause peripheral vision problems and visual field abnormalities. These disorders include glaucoma, macular degeneration, strokes, brain tumors, and many others.&nbsp;</p><p><b>Dilated examination</b></p><p>Dilation is the widening of the pupils by use of medicated eye drops. Dr. Nguyen believes in the importance of a dilated examination. A dilated fundus exam can detect many eye conditions that may be missed during a routine eye examination. Dilation is strongly recommended for patients with a history of cataracts, high blood pressure, high glasses prescription, and/or other ocular diseases. It is mandatory for all diabetic patients, patients with glaucoma, and children 12 and under. After being dilated, you may experience blurred vision at near and light sensitivity temporarily, but there is no pain or permanent side effects associated with dilation</p><p><b>Pediatric Eye Examinations&nbsp;</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">A good education for your child means good schools, good teachers, and good vision. Your child's eyes are constantly in use in the classroom and at play. A school vision or pediatrician's screening is not a substitute for a thorough eye examination. Since vision changes can occur without you or your child noticing them, your child should visit the optometrist yearly. If needed, the doctor can prescribe treatment including eyeglasses, contact lenses or vision therapy.&nbsp;</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">The basic vision skills needed for school use are: </span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><i>Near vision. The ability to see clearly and comfortably at 10-13 inches.;&nbsp;</i></span><i style=\"font-size: 1.07rem; line-height: 1.5;\">Distance vision. The ability to see clearly and comfortably beyond arm's reach;&nbsp;</i><i style=\"font-size: 1.07rem; line-height: 1.5;\">Binocular coordination. The ability to use both eyes together ;</i><i style=\"font-size: 1.07rem; line-height: 1.5;\">Eye movement skills. The ability to aim the eyes accurately, move them smoothly across a page and shift them quickly and accurately from one</i><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span><i style=\"font-size: 1.07rem; line-height: 1.5;\">object to another:&nbsp;</i><i style=\"font-size: 1.07rem; line-height: 1.5;\">Focusing skills. The ability to keep both eyes accurately focused at the proper distance to see clearly and to change focus quickly.&nbsp;</i></p><p>If any of these or other vision skills is lacking or not functioning properly, your child will have to work harder. This can lead to headaches, fatigue and other eyestrain problems. As a parent, be alert for symptoms that may indicate your child has a vision or visual processing problem.&nbsp;</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Be sure to tell your optometrist if your child frequently: </span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Loses their place while reading; </span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Avoids close work; </span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Holds reading material closer than normal; </span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Tends to rub their eyes; Has headaches;&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Turns or tilts head to use one eye only; </span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Makes frequent reversals when reading or writing; </span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Uses finger to maintain place when reading;&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Omits or confuses small words when reading; </span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Consistently performs below potential.</span></p>"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "25px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#055b5b"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#077d7d!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#088b8b"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c1c1c1!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1e",
+          "_params": {
+            "bgColor": "#088b8b",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-20-at-8-253x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WOODBRIDGE EYE CARE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">(972) 429-3501</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1g",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#a07e49"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care\" data-toolbar=\"-mbrBtnMove\">REVIEWS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">PATIENT FORMS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">MAP AND DIRECTIONS</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1h",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
