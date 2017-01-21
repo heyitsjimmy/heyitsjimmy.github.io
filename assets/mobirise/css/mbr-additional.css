@@ -867,3 +867,86 @@ h6,
 #ext_menu-1m .dropdown-item[aria-expanded="true"] {
   color: #c1c1c1!important;
 }
+#msg-box2-1q .mbr-section-title {
+  color: #fff;
+  font-size: 48px;
+}
+#msg-box2-1q .mbr-section-subtitle {
+  color: #ffffff;
+  font-size: 20px;
+}
+#msg-box3-1v .mbr-section-title,
+#msg-box3-1v p {
+  color: #000;
+}
+#msg-box3-1v .lead UL {
+  text-align: center;
+}
+#msg-box3-1v .mbr-section-title {
+  color: #000000;
+}
+#msg-box3-1v .lead P {
+  font-size: 19px;
+}
+#ext_menu-1s .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-1s .navbar-caption {
+  color: #ffffff;
+  font-size: 25px;
+}
+#ext_menu-1s .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-1s .close-icon::before,
+#ext_menu-1s .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-1s .link,
+#ext_menu-1s .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-1s .link {
+  font-size: 0.9rem;
+}
+#ext_menu-1s .dropdown-item,
+#ext_menu-1s .nav-dropdown-sm .link {
+  font-size: 0.975rem;
+}
+#ext_menu-1s .link:hover,
+#ext_menu-1s .dropdown-item:hover,
+#ext_menu-1s .link:focus,
+#ext_menu-1s .dropdown-item:focus {
+  color: #c1c1c1;
+}
+#ext_menu-1s .link[aria-expanded="true"],
+#ext_menu-1s .dropdown-menu {
+  background: #055b5b;
+}
+#ext_menu-1s .nav-dropdown-sm .link:focus,
+#ext_menu-1s .nav-dropdown-sm .link:hover,
+#ext_menu-1s .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-1s .nav-dropdown-sm .dropdown-item:hover {
+  background: #077d7d!important;
+}
+#ext_menu-1s .navbar,
+#ext_menu-1s .nav-dropdown-sm,
+#ext_menu-1s .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-1s .nav-dropdown-sm .dropdown-menu {
+  background: #088b8b;
+}
+#ext_menu-1s .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-1s .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-1s .bg-color.transparent.opened .link:hover,
+#ext_menu-1s .bg-color.transparent.opened .link:focus {
+  color: #c1c1c1;
+}
+#ext_menu-1s .link[aria-expanded="true"],
+#ext_menu-1s .dropdown-item[aria-expanded="true"] {
+  color: #c1c1c1!important;
+}
