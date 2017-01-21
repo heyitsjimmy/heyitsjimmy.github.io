@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Woodbridge Eye Care",
-    "currentPage": "ComprehensiveEyeExaminations.html",
+    "currentPage": "Services.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -982,7 +982,7 @@
           "title3": "Medical Eye Care",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Macular Degeneration<br><br>Glaucoma<br><br>Diabetic Exams<br><br>Ocular Allergies<br><br>Dry Eyes<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"medicaleyecare.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
