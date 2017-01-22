@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Woodbridge Eye Care",
-    "currentPage": "Services.html",
+    "currentPage": "Technology.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2621,7 +2621,7 @@
           "_name": "features3",
           "_anchor": "features3-2p",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": false,
