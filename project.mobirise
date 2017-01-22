@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Woodbridge Eye Care",
-    "currentPage": "forms.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -165,7 +165,7 @@
             "showTitle": false
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"http://www.irvingeyedoctors.com\" data-toolbar=\"-mbrBtnMove\">IRVING EYE ASSOCIATES</a>",
-          "text": "We are very excited to announce the that we will be soon serving the Irving community with our sister office!",
+          "text": "We are excited to announce that we will be serving the Irving community with our sister location!",
           "title": "IRVING EYE ASSOCIATES"
         },
         {
@@ -200,13 +200,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#055b5b"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#077d7d!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#088b8b"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -225,7 +225,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-d",
           "_params": {
-            "bgColor": "#088b8b",
+            "bgColor": "#2e2e2e",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -525,7 +525,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-s",
           "_params": {
-            "bgColor": "#088b8b",
+            "bgColor": "#2e2e2e",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -828,7 +828,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-z",
           "_params": {
-            "bgColor": "#088b8b",
+            "bgColor": "#2e2e2e",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1135,7 +1135,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-17",
           "_params": {
-            "bgColor": "#088b8b",
+            "bgColor": "#2e2e2e",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1357,7 +1357,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1e",
           "_params": {
-            "bgColor": "#088b8b",
+            "bgColor": "#2e2e2e",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1582,7 +1582,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1m",
           "_params": {
-            "bgColor": "#088b8b",
+            "bgColor": "#2e2e2e",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1816,7 +1816,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1s",
           "_params": {
-            "bgColor": "#088b8b",
+            "bgColor": "#2e2e2e",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2052,7 +2052,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1y",
           "_params": {
-            "bgColor": "#088b8b",
+            "bgColor": "#2e2e2e",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2288,7 +2288,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-23",
           "_params": {
-            "bgColor": "#088b8b",
+            "bgColor": "#2e2e2e",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2524,7 +2524,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-28",
           "_params": {
-            "bgColor": "#088b8b",
+            "bgColor": "#2e2e2e",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2838,7 +2838,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2d",
           "_params": {
-            "bgColor": "#088b8b",
+            "bgColor": "#2e2e2e",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -3205,7 +3205,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2s",
           "_params": {
-            "bgColor": "#088b8b",
+            "bgColor": "#2e2e2e",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -3506,13 +3506,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#055b5b"
+              "background": "#7d6239"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#077d7d!important"
+              "background": "#957644!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#088b8b"
+              "background": "#a07e49"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -3531,7 +3531,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-34",
           "_params": {
-            "bgColor": "#088b8b",
+            "bgColor": "#2e2e2e",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -3791,7 +3791,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-3f",
           "_params": {
-            "bgColor": "#088b8b",
+            "bgColor": "#2e2e2e",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -3996,7 +3996,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-3m",
           "_params": {
-            "bgColor": "#088b8b",
+            "bgColor": "#2e2e2e",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
