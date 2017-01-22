@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Woodbridge Eye Care",
-    "currentPage": "index.html",
+    "currentPage": "forms.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11",
-    "uniqCompNum": 135,
+    "uniqCompNum": 163,
     "versionPublish": "3.11"
   },
   "pages": {
@@ -164,7 +164,7 @@
             "showText": true,
             "showTitle": false
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"www.irvingeyedoctors.com\" data-toolbar=\"-mbrBtnMove\">IRVING EYE ASSOCIATES</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"http://www.irvingeyedoctors.com\" data-toolbar=\"-mbrBtnMove\">IRVING EYE ASSOCIATES</a>",
           "text": "We are very excited to announce the that we will be soon serving the Irving community with our sister office!",
           "title": "IRVING EYE ASSOCIATES"
         },
@@ -254,7 +254,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WOODBRIDGE EYE CARE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactus.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
         },
         {
           "_tags": [
@@ -370,7 +370,7 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-q",
+          "_anchor": "msg-box2-3t",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "2",
@@ -393,7 +393,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098"
+          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
         },
         {
           "_tags": [
@@ -454,6 +454,19 @@
               "text-align": "left"
             }
           }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#a07e49"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care\" data-toolbar=\"-mbrBtnMove\">REVIEWS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"forms.html\" data-toolbar=\"-mbrBtnMove\">PATIENT FORMS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"mapanddirections.html\" data-toolbar=\"-mbrBtnMove\">MAP AND DIRECTIONS</a>"
         },
         {
           "_inherit": "menu",
@@ -541,20 +554,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WOODBRIDGE EYE CARE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-u",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#a07e49"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">REVIEWS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">PATIENT FORMS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">MAP AND DIRECTIONS</a>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactus.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
         },
         {
           "_tags": [
@@ -620,7 +620,7 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-w",
+          "_anchor": "msg-box2-3u",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "2",
@@ -643,7 +643,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098"
+          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
         },
         {
           "_tags": [
@@ -675,7 +675,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/tina-600x581.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -691,7 +691,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x398.jpg",
+              "src": "@PROJECT_PATH@/assets/images/tala-600x581.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -757,6 +757,19 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3v",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#a07e49"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care\" data-toolbar=\"-mbrBtnMove\">REVIEWS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"forms.html\" data-toolbar=\"-mbrBtnMove\">PATIENT FORMS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"mapanddirections.html\" data-toolbar=\"-mbrBtnMove\">MAP AND DIRECTIONS</a>"
         },
         {
           "_inherit": "menu",
@@ -844,20 +857,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WOODBRIDGE EYE CARE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-10",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#a07e49"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">REVIEWS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"forms.html\" data-toolbar=\"-mbrBtnMove\">PATIENT FORMS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">MAP AND DIRECTIONS</a>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactus.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
         },
         {
           "_tags": [
@@ -923,7 +923,7 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-15",
+          "_anchor": "msg-box2-3x",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "2",
@@ -946,7 +946,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098"
+          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
         },
         {
           "_tags": [
@@ -1066,6 +1066,19 @@
           }
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3w",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#a07e49"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care\" data-toolbar=\"-mbrBtnMove\">REVIEWS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"forms.html\" data-toolbar=\"-mbrBtnMove\">PATIENT FORMS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"mapanddirections.html\" data-toolbar=\"-mbrBtnMove\">MAP AND DIRECTIONS</a>"
+        },
+        {
           "_inherit": "menu",
           "_tags": [
             "Theme"
@@ -1151,20 +1164,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WOODBRIDGE EYE CARE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-19",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#a07e49"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care\" data-toolbar=\"-mbrBtnMove\">REVIEWS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"forms.html\" data-toolbar=\"-mbrBtnMove\">PATIENT FORMS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">MAP AND DIRECTIONS</a>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactus.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
         },
         {
           "_tags": [
@@ -1230,7 +1230,7 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-1c",
+          "_anchor": "msg-box2-3y",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "2",
@@ -1253,7 +1253,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098"
+          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
         },
         {
           "_styles": {
@@ -1286,6 +1286,19 @@
           },
           "title": "",
           "caption": "<p><b>Comprehensive Eye Examinations</b>&nbsp;</p><p>A comprehensive eye examination includes an extensive visual and medical case history and a complete analysis of your eye health. The exam includes a prescription for glasses, if needed, as well as a health assessment of the eyelids, cornea, iris, intraocular lens, vitreous, retina, and optic nerve. Dr. Nguyen will take the time to ensure that you achieve clear and comfortable vision with your new prescription. Intra-ocular pressures are measure to screen for glaucoma. A dilated fundus examination is included, which allows a more thorough view inside the eyes.At Woodbridge Eye Care, we use the latest technologies to monitor our patients eyes health. The automated visual field test assesses your peripheral vision which can be linked to a variety of eye diseases. Many eye and brain disorders can cause peripheral vision problems and visual field abnormalities. These disorders include glaucoma, macular degeneration, strokes, brain tumors, and many others.&nbsp;</p><p><b>Dilated examination</b></p><p>Dilation is the widening of the pupils by use of medicated eye drops. Dr. Nguyen believes in the importance of a dilated examination. A dilated fundus exam can detect many eye conditions that may be missed during a routine eye examination. Dilation is strongly recommended for patients with a history of cataracts, high blood pressure, high glasses prescription, and/or other ocular diseases. It is mandatory for all diabetic patients, patients with glaucoma, and children 12 and under. After being dilated, you may experience blurred vision at near and light sensitivity temporarily, but there is no pain or permanent side effects associated with dilation</p><p><b>Pediatric Eye Examinations&nbsp;</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">A good education for your child means good schools, good teachers, and good vision. Your child's eyes are constantly in use in the classroom and at play. A school vision or pediatrician's screening is not a substitute for a thorough eye examination. Since vision changes can occur without you or your child noticing them, your child should visit the optometrist yearly. If needed, the doctor can prescribe treatment including eyeglasses, contact lenses or vision therapy.&nbsp;</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">The basic vision skills needed for school use are: </span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><i>Near vision. The ability to see clearly and comfortably at 10-13 inches.;&nbsp;</i></span><i style=\"font-size: 1.07rem; line-height: 1.5;\">Distance vision. The ability to see clearly and comfortably beyond arm's reach;&nbsp;</i><i style=\"font-size: 1.07rem; line-height: 1.5;\">Binocular coordination. The ability to use both eyes together ;</i><i style=\"font-size: 1.07rem; line-height: 1.5;\">Eye movement skills. The ability to aim the eyes accurately, move them smoothly across a page and shift them quickly and accurately from one</i><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span><i style=\"font-size: 1.07rem; line-height: 1.5;\">object to another:&nbsp;</i><i style=\"font-size: 1.07rem; line-height: 1.5;\">Focusing skills. The ability to keep both eyes accurately focused at the proper distance to see clearly and to change focus quickly.&nbsp;</i></p><p>If any of these or other vision skills is lacking or not functioning properly, your child will have to work harder. This can lead to headaches, fatigue and other eyestrain problems. As a parent, be alert for symptoms that may indicate your child has a vision or visual processing problem.&nbsp;</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Be sure to tell your optometrist if your child frequently: </span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Loses their place while reading; </span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Avoids close work; </span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Holds reading material closer than normal; </span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Tends to rub their eyes; Has headaches;&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Turns or tilts head to use one eye only; </span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Makes frequent reversals when reading or writing; </span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Uses finger to maintain place when reading;&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Omits or confuses small words when reading; </span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Consistently performs below potential.</span></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3z",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#a07e49"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care\" data-toolbar=\"-mbrBtnMove\">REVIEWS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"forms.html\" data-toolbar=\"-mbrBtnMove\">PATIENT FORMS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"mapanddirections.html\" data-toolbar=\"-mbrBtnMove\">MAP AND DIRECTIONS</a>"
         },
         {
           "_inherit": "menu",
@@ -1373,20 +1386,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WOODBRIDGE EYE CARE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-1g",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#a07e49"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care\" data-toolbar=\"-mbrBtnMove\">REVIEWS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"forms.html\" data-toolbar=\"-mbrBtnMove\">PATIENT FORMS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">MAP AND DIRECTIONS</a>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactus.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
         },
         {
           "_tags": [
@@ -1452,7 +1452,7 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-1k",
+          "_anchor": "msg-box2-41",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "2",
@@ -1475,7 +1475,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098"
+          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
         },
         {
           "_styles": {
@@ -1511,6 +1511,19 @@
           },
           "title": "CONTACT LENS EVALUATION",
           "caption": "<p>A  contact  lens  evaluation  is  performed  on  all  patients  that  require  a  contact lens  prescription.    The  evaluation  is  in  addition  to  the  comprehensive  eye examination.    It  consists  of  an  ocular  health  assessment,  corneal  curvature measurements,  evaluation  of  the  fit  of  the  lenses  on  the  eyes,  and  follow  up visits   to   determine   the   vision   and   comfort   of   the   lenses.      Dr.   Nguyen specializes  in  fitting  contact  lenses  and  carries  a  comprehensive  supply  of diagnostic  lenses  such  as  soft-disposable  lenses  and  rigid  gas  permeable lenses  (RGP’s).    Our  goal  is  that  you  are  completely  satisfied  with  the  lens design selected for your particular needs.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-40",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#a07e49"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care\" data-toolbar=\"-mbrBtnMove\">REVIEWS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"forms.html\" data-toolbar=\"-mbrBtnMove\">PATIENT FORMS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"mapanddirections.html\" data-toolbar=\"-mbrBtnMove\">MAP AND DIRECTIONS</a>"
         },
         {
           "_inherit": "menu",
@@ -1598,20 +1611,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WOODBRIDGE EYE CARE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-1n",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#a07e49"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care\" data-toolbar=\"-mbrBtnMove\">REVIEWS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"forms.html\" data-toolbar=\"-mbrBtnMove\">PATIENT FORMS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">MAP AND DIRECTIONS</a>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactus.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
         },
         {
           "_tags": [
@@ -1677,7 +1677,7 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-1q",
+          "_anchor": "msg-box2-42",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "2",
@@ -1700,7 +1700,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098"
+          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
         },
         {
           "_inherit": "msg-box8",
@@ -1745,6 +1745,19 @@
           "title": "MEDICAL EYE CARE<br>",
           "text": "<p><b>Diagnosis and Treatment of Eye Disease</b></p><p>Dr. Nguyen is a therapeutic optometrist, board-certified to diagnose and treat many eye diseases. At Woodbridge Eye Care we providecomprehensive care for many conditions that affect the eyes. Examples of medical conditions include:</p><p>Dry eyes </p><p>Glaucoma</p><p>Macular degeneration  </p><p>Diabetes examinations </p><p>Ocular allergies</p><p>Cataracts Eye infections</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"medicaleyecare2.html\" data-toolbar=\"-mbrBtnMove\">CLICK FOR MORE ON DRY EYES, GLAUCOMA, MACULAR DEGENERATION, DIABETES EXAMINATIONS</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-43",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#a07e49"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care\" data-toolbar=\"-mbrBtnMove\">REVIEWS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"forms.html\" data-toolbar=\"-mbrBtnMove\">PATIENT FORMS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"mapanddirections.html\" data-toolbar=\"-mbrBtnMove\">MAP AND DIRECTIONS</a>"
         },
         {
           "_inherit": "menu",
@@ -1832,20 +1845,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WOODBRIDGE EYE CARE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-1t",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#a07e49"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care\" data-toolbar=\"-mbrBtnMove\">REVIEWS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"forms.html\" data-toolbar=\"-mbrBtnMove\">PATIENT FORMS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">MAP AND DIRECTIONS</a>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactus.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
         },
         {
           "_tags": [
@@ -1911,7 +1911,7 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-1w",
+          "_anchor": "msg-box2-44",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "2",
@@ -1934,7 +1934,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098"
+          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
         },
         {
           "_inherit": "msg-box8",
@@ -1961,7 +1961,7 @@
           "_anchor": "msg-box3-1x",
           "_params": {
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
@@ -1981,6 +1981,19 @@
           "title": "MEDICAL EYE CARE<br>",
           "text": "<p><span style=\"line-height: 1.5;\"><b>Dry Eye Management</b></span><br></p><p>Dry  Eye  Syndrome  is  a  chronic  inflammatory  condition  that affects   millions   of   patients   and   is   caused   by   the   eye's reduced  ability  to  produce  tears.    Patients  with  the  most severe  disease  are  at  increased  risk  of  developing  infection, scarring,    and    ulceration.        These    conditions    can    cause permanent  vision  loss,  although  this  is  rare.    Fortunately,  we have  wonderful  ways  to  treat  dry  eyes.    Symptoms  of  dry eyes   include   redness,   itching,   burning,   watery   eyes,   and gritty   irritation.      Woodbridge   Eye   Care   has   an   array   of treatments   to   help   manage   chronic   dry   eye,   including artificial     tears,     prescription     eye     drops,     nutritional supplements, and punctal plugs.</p><p><b>Glaucoma Management</b></p><p>Dr.  Nguyen  is  certified  optometric  glaucoma  specialist  and  has  extensive training  and  experience  in  the  diagnosis  and  treatment  of  glaucoma.    As part  of  your  comprehensive  eye  exam,  we  will  check  your  eye  pressure, peripheral  vision,  and  with  a  dilated  examination  we  will  thoroughly  assess the  optic  nerve.    An  estimated  1.6  million  individuals  over  40  years  old  in the  United  States  have  glaucoma,  and  the  risk  increases  with  age.    Most cases   of   glaucoma   develop   without   symptoms.      Early   diagnosis   and treatment  of  glaucoma  can  help  preserve  eyesight  and  keep  you  from  losing peripheral vision.&nbsp;</p><p><b>Macular Degeneration</b></p><p>Macular  degeneration  is  an  age  related  condition  resulting  in  damage  to central  vision  where  reading  and  recognition  of faces   and   fine   detail   takes   place.   The   central retina    or    macula    is    where    vision    is    most sensitive.  Damage  here  can  produce  very  serious vision   loss.      Dry   macular   degeneration   occurs when  the  pigmented  nutritional  supporting  cells of  the  retina  become  damaged  with  age.  As  this damage    progresses,    small    hemorrhages    can develop   from   the   growth   of   abnormal   blood vessels  producing  the  wet  form.  Damage  from dry  macular  degeneration  generally  progresses slowly,     but     damage     from     wet     macular degeneration      can      progress      very      rapidly. Treatment  for  dry  macular  degeneration  centers  on  nutritional  support  with vitamin  supplements.  Monitoring  for  changes  is  accomplished  by  routine visualization of an Amsler grid and close follow up care with the doctor.&nbsp;</p><p><b>Diabetes examination</b></p><p>Diabetic eye disease, caused by diabetes, is a leading cause of blindness and vision loss. Because of the high risk for eye disease, all people with diabetes age 30 and older should receive an annual dilated eye exam. For people with diabetes younger than 30, an annual dilated exam is recommended after they have had diabetes for 5 years.Diabetic retinopathy is damage to the retina caused by complications of diabetes. The retina is highly penetrated with small blood vessels and capillaries that can leak if damaged from diabetes. With prolonged elevation of blood sugar, the vascular lining of the retina’s blood vessels become damaged rendering them leaky. If fluid accumulates in the central retina or macula, vision loss results. There are no symptoms in the early stages of diabetic eye disease. The prevalence of diabetic retinopathy in people with diabetes is high.The good news is that diabetic eye disease can be treated and your vision can be saved (if you catch it early) through a dilated eye exam. Don’t wait for symptoms. If you have diabetes, get a dilated eye exam at least once a year. It doesn’t hurt – it’s easy – and it could save your sight.</p><p><br></p><p><br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK FOR MORE ON DRY EYES, GLAUCOMA, MACULAR DEGENERATION, DIABETES EXAMINATIONS</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-45",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#a07e49"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care\" data-toolbar=\"-mbrBtnMove\">REVIEWS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"forms.html\" data-toolbar=\"-mbrBtnMove\">PATIENT FORMS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"mapanddirections.html\" data-toolbar=\"-mbrBtnMove\">MAP AND DIRECTIONS</a>"
         },
         {
           "_inherit": "menu",
@@ -2068,20 +2081,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WOODBRIDGE EYE CARE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-1z",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#a07e49"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care\" data-toolbar=\"-mbrBtnMove\">REVIEWS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"forms.html\" data-toolbar=\"-mbrBtnMove\">PATIENT FORMS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">MAP AND DIRECTIONS</a>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactus.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
         },
         {
           "_tags": [
@@ -2147,7 +2147,7 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-21",
+          "_anchor": "msg-box2-47",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "2",
@@ -2170,7 +2170,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098"
+          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
         },
         {
           "_inherit": "msg-box8",
@@ -2217,6 +2217,19 @@
           "title": "CONSULTATION &amp; CO-MANAGEMENT<br>",
           "text": "<p><b>LASIK &nbsp;and Cataract Surgery</b></p><p>Dr. Nguyen has experience in the pre-operative evaluation and post-operative care of LASIK and other vision correction procedures. By far, LASIK is currently the most popular vision-correcting or \"refractive\" surgery available. But there are other options as well. We will help you find the ideal solution for your problem and Dr. Nguyen is partnered with the best surgeons to perform your procedure.</p><p><br></p><p><br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK FOR MORE ON DRY EYES, GLAUCOMA, MACULAR DEGENERATION, DIABETES EXAMINATIONS</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-46",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#a07e49"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care\" data-toolbar=\"-mbrBtnMove\">REVIEWS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"forms.html\" data-toolbar=\"-mbrBtnMove\">PATIENT FORMS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"mapanddirections.html\" data-toolbar=\"-mbrBtnMove\">MAP AND DIRECTIONS</a>"
         },
         {
           "_inherit": "menu",
@@ -2304,20 +2317,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WOODBRIDGE EYE CARE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-24",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#a07e49"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care\" data-toolbar=\"-mbrBtnMove\">REVIEWS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"forms.html\" data-toolbar=\"-mbrBtnMove\">PATIENT FORMS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">MAP AND DIRECTIONS</a>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactus.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
         },
         {
           "_tags": [
@@ -2383,7 +2383,7 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-26",
+          "_anchor": "msg-box2-48",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "2",
@@ -2406,7 +2406,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098"
+          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
         },
         {
           "_inherit": "msg-box8",
@@ -2453,6 +2453,19 @@
           "title": "OCULAR EMERGENCIES<br>",
           "text": "<p><br></p><p>Dr. Nguyen has experience and extensive training in all areas that deal with vision; even when it is an emergency. Red eye, eye infections, and foreign body removals are medical conditions that can be treated in our office. &nbsp;Ocular trauma can be evaluated in office and either treated or referred to the appropriate providers that can see that your eyes get the correct care.</p><p><br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK FOR MORE ON DRY EYES, GLAUCOMA, MACULAR DEGENERATION, DIABETES EXAMINATIONS</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-49",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#a07e49"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care\" data-toolbar=\"-mbrBtnMove\">REVIEWS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"forms.html\" data-toolbar=\"-mbrBtnMove\">PATIENT FORMS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"mapanddirections.html\" data-toolbar=\"-mbrBtnMove\">MAP AND DIRECTIONS</a>"
         },
         {
           "_inherit": "menu",
@@ -2540,20 +2553,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WOODBRIDGE EYE CARE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-29",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#a07e49"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care\" data-toolbar=\"-mbrBtnMove\">REVIEWS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"forms.html\" data-toolbar=\"-mbrBtnMove\">PATIENT FORMS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">MAP AND DIRECTIONS</a>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactus.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
         },
         {
           "_tags": [
@@ -2619,7 +2619,7 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-2b",
+          "_anchor": "msg-box2-4b",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "2",
@@ -2642,7 +2642,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098"
+          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
         },
         {
           "_tags": [
@@ -2769,6 +2769,19 @@
           }
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-4a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#a07e49"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care\" data-toolbar=\"-mbrBtnMove\">REVIEWS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"forms.html\" data-toolbar=\"-mbrBtnMove\">PATIENT FORMS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"mapanddirections.html\" data-toolbar=\"-mbrBtnMove\">MAP AND DIRECTIONS</a>"
+        },
+        {
           "_inherit": "menu",
           "_tags": [
             "Theme"
@@ -2854,20 +2867,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WOODBRIDGE EYE CARE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-2e",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#a07e49"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care\" data-toolbar=\"-mbrBtnMove\">REVIEWS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"forms.html\" data-toolbar=\"-mbrBtnMove\">PATIENT FORMS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">MAP AND DIRECTIONS</a>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactus.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
         },
         {
           "_tags": [
@@ -2933,7 +2933,7 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-2q",
+          "_anchor": "msg-box2-4c",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "2",
@@ -2956,7 +2956,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098"
+          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
         },
         {
           "_styles": {
@@ -3136,6 +3136,19 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-4d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#a07e49"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care\" data-toolbar=\"-mbrBtnMove\">REVIEWS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"forms.html\" data-toolbar=\"-mbrBtnMove\">PATIENT FORMS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"mapanddirections.html\" data-toolbar=\"-mbrBtnMove\">MAP AND DIRECTIONS</a>"
+        },
+        {
           "_inherit": "menu",
           "_tags": [
             "Theme"
@@ -3221,20 +3234,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WOODBRIDGE EYE CARE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-2t",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#a07e49"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care\" data-toolbar=\"-mbrBtnMove\">REVIEWS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"forms.html\" data-toolbar=\"-mbrBtnMove\">PATIENT FORMS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">MAP AND DIRECTIONS</a>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactus.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
         },
         {
           "_tags": [
@@ -3300,7 +3300,7 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-30",
+          "_anchor": "msg-box2-4e",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "2",
@@ -3323,7 +3323,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098"
+          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
         },
         {
           "_inherit": "msg-box8",
@@ -3354,11 +3354,11 @@
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
-            "showButton": false
+            "showButton": true
           },
           "title": "PATIENT FORMS",
           "text": "<p>If  you  would  like  to  prepare  for  your  appointment  ahead  of  time,  please click  the  button  below  and  complete  the  form  before  your  first  office  visit. In  addition,  please  complete  and  print  the  forms  below  and  bring  them with you to your scheduled appointment</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.crystalpm.com/index.jsp?crystalpmid=1836\" data-toolbar=\"-mbrBtnMove\">ONLINE FORMS</a>"
         },
         {
           "_inherit": "features3",
@@ -3560,7 +3560,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WOODBRIDGE EYE CARE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactus.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
         },
         {
           "_tags": [
@@ -3639,7 +3639,7 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-3c",
+          "_anchor": "msg-box2-4g",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "2",
@@ -3662,7 +3662,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098"
+          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
         },
         {
           "_tags": [
@@ -3720,6 +3720,19 @@
               "color": "#232323"
             }
           }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-4f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#a07e49"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care\" data-toolbar=\"-mbrBtnMove\">REVIEWS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"forms.html\" data-toolbar=\"-mbrBtnMove\">PATIENT FORMS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"mapanddirections.html\" data-toolbar=\"-mbrBtnMove\">MAP AND DIRECTIONS</a>"
         },
         {
           "_inherit": "menu",
@@ -3807,20 +3820,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WOODBRIDGE EYE CARE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-3g",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#a07e49"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care\" data-toolbar=\"-mbrBtnMove\">REVIEWS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"forms.html\" data-toolbar=\"-mbrBtnMove\">PATIENT FORMS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">MAP AND DIRECTIONS</a>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactus.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
         },
         {
           "_tags": [
@@ -3886,7 +3886,7 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-3k",
+          "_anchor": "msg-box2-4i",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "2",
@@ -3909,7 +3909,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098"
+          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
         },
         {
           "_tags": [
@@ -3925,6 +3925,19 @@
               "stateDetails": ""
             }
           }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-4h",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#a07e49"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care\" data-toolbar=\"-mbrBtnMove\">REVIEWS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"forms.html\" data-toolbar=\"-mbrBtnMove\">PATIENT FORMS</a> "
         },
         {
           "_inherit": "menu",
@@ -4012,20 +4025,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WOODBRIDGE EYE CARE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-3n",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#a07e49"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care\" data-toolbar=\"-mbrBtnMove\">REVIEWS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"forms.html\" data-toolbar=\"-mbrBtnMove\">PATIENT FORMS</a> "
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactus.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">(972) 429-3501</a></li>"
         },
         {
           "_tags": [
