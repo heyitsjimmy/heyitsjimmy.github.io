@@ -419,6 +419,20 @@ h6,
   color: #ffffff;
   font-size: 20px;
 }
+#msg-box1-3q H2 {
+  color: #ffffff;
+}
+#msg-box3-4n .mbr-section-title,
+#msg-box3-4n p {
+  color: #000;
+}
+#msg-box3-4n .lead P {
+  text-align: left;
+  font-size: 20px;
+}
+#msg-box3-4n .btn {
+  font-size: 15px;
+}
 #ext_menu-d .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -480,12 +494,6 @@ h6,
 #ext_menu-d .link[aria-expanded="true"],
 #ext_menu-d .dropdown-item[aria-expanded="true"] {
   color: #c1c1c1!important;
-}
-#header1-g .mbr-section-lead {
-  text-align: left;
-}
-#header1-g .mbr-section-title {
-  font-size: 30px;
 }
 #msg-box2-3t .mbr-section-title {
   color: #fff;

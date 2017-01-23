@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11",
-    "uniqCompNum": 167,
+    "uniqCompNum": 168,
     "versionPublish": "3.11"
   },
   "pages": {
@@ -150,7 +150,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#F2F2F2",
+            "bgColor": "#5c7171",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -164,9 +164,56 @@
             "showText": true,
             "showTitle": false
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"http://www.irvingeyedoctors.com\" data-toolbar=\"-mbrBtnMove\">IRVING EYE ASSOCIATES</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://www.irvingeyedoctors.com\" data-toolbar=\"-mbrBtnMove\">IRVING EYE ASSOCIATES</a>",
           "text": "We are excited to announce that we will be serving the Irving community with our sister location!",
-          "title": "IRVING EYE ASSOCIATES"
+          "title": "IRVING EYE ASSOCIATES",
+          "_styles": {
+            "H2": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "text-align": "left",
+              "font-size": "20px"
+            },
+            ".btn": {
+              "font-size": "15px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-4n",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "MODERN STYLES",
+          "text": "<p>Located in Wylie, Texas, our mission at Woodbridge Eye Care is to provide the ultimate eye care experience. We achieve this through the efforts of our dedicated doctor and friendly team that has a passion for excellence in quality and service. Your comfort and satisfaction are among our top priorities and we are committed to providing personalized care to you and your family</p><p><br></p><p>Dr. Anny Nguyen does her absolute best to provide you with the most comprehensive and thorough exam. We invite you to call us today to schedule an appointment and learn more about how we can help you!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care/appt\" data-toolbar=\"-mbrBtnMove\">MAKE AN APPOINTMENT TODAY!</a>"
         },
         {
           "_inherit": "menu",
@@ -255,43 +302,6 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WOODBRIDGE EYE CARE</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DrAnnyNguyen..html\">Meet Dr. Nguyen<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OurStaff.html\">Our Staff</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Technology.html\">TECHNOLOGY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Insurances.html\">INSURANCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forms.html\">FORMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contactus.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care\">REVIEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care/appt\">MAKE AN APPOINTMENT</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_styles": {
-            ".mbr-section-lead": {
-              "text-align": "left"
-            },
-            ".mbr-section-title": {
-              "font-size": "30px"
-            }
-          },
-          "_anchor": "header1-g",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "showArrow": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "left",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "title": "WELCOME TO WOODBRIDGE EYE CARE",
-          "text": "Located in Wylie, Texas, our mission at Woodbridge Eye Care is to provide the ultimate eye care experience. We achieve this through the efforts of our dedicated doctor and friendly team that has a passion for excellence in quality and service.  Your comfort and satisfaction are among our top priorities and we are committed to providing personalized care to you and your family<br><br>Dr. Anny Nguyen does her absolute best to provide you with the most comprehensive and thorough exam.  We invite you to call us today to schedule an appointment and learn more about how we can help you!<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care/appt\" data-toolbar=\"-mbrBtnMove\">MAKE AN APPOINTMENT</a> "
         },
         {
           "_tags": [
