@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11",
-    "uniqCompNum": 168,
+    "uniqCompNum": 169,
     "versionPublish": "3.11"
   },
   "pages": {
@@ -38,22 +38,20 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "48px"
+              "color": "#fff"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff",
-              "font-size": "20px"
+              "color": "#ffffff"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-o",
+          "_anchor": "msg-box2-4o",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -67,13 +65,13 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "inverse": false,
-            "showButtons": false,
+            "showButtons": true,
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.comhttps://reviews.solutionreach.com/vs/woodbridge_eye_care/appt\" data-toolbar=\"-mbrBtnMove\">MAKE AN APPOINTMENT</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
+          "text": "Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br><br>"
         },
         {
           "_inherit": "gallery1",
@@ -282,7 +280,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -545,7 +543,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -848,7 +846,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -1155,7 +1153,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -1377,7 +1375,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -1602,7 +1600,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -1836,7 +1834,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -2072,7 +2070,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -2308,7 +2306,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -2544,7 +2542,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -2858,7 +2856,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -3225,7 +3223,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -3551,7 +3549,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -3811,7 +3809,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -4016,7 +4014,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
