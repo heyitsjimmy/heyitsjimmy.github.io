@@ -164,7 +164,7 @@
             "showText": true,
             "showTitle": false
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://www.irvingeyedoctors.com\" data-toolbar=\"-mbrBtnMove\">IRVING EYE ASSOCIATES</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://www.irvingeyedoctors.com\" data-toolbar=\"-mbrBtnMove\">IRVING EYE ASSOCIATES</a>",
           "text": "We are excited to announce that we will be serving the Irving community with our sister location!",
           "title": "IRVING EYE ASSOCIATES",
           "_styles": {
@@ -501,10 +501,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -804,22 +804,22 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#055b5b"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#077d7d!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#088b8b"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1111,22 +1111,22 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#055b5b"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#077d7d!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#088b8b"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
