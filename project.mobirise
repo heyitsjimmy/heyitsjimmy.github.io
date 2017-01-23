@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11",
-    "uniqCompNum": 186,
+    "uniqCompNum": 187,
     "versionPublish": "3.11"
   },
   "pages": {
@@ -51,7 +51,7 @@
           "_anchor": "msg-box2-4o",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -71,7 +71,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care/appt\" data-toolbar=\"-mbrBtnMove\">MAKE AN APPOINTMENT TODAY!</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br><br>"
+          "text": "Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<div>(972) 429-3501<br><br></div>"
         },
         {
           "_inherit": "gallery1",
