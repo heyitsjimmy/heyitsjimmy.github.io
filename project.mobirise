@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11",
-    "uniqCompNum": 169,
+    "uniqCompNum": 186,
     "versionPublish": "3.11"
   },
   "pages": {
@@ -69,7 +69,7 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.comhttps://reviews.solutionreach.com/vs/woodbridge_eye_care/appt\" data-toolbar=\"-mbrBtnMove\">MAKE AN APPOINTMENT</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care/appt\" data-toolbar=\"-mbrBtnMove\">MAKE AN APPOINTMENT TODAY!</a>",
           "title": "WOODBRIDGE EYE CARE",
           "text": "Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br><br>"
         },
@@ -167,7 +167,8 @@
           "title": "IRVING EYE ASSOCIATES",
           "_styles": {
             "H2": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "15px"
             }
           }
         },
@@ -366,22 +367,20 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "48px"
+              "color": "#fff"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff",
-              "font-size": "20px"
+              "color": "#ffffff"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-3t",
+          "_anchor": "msg-box2-4s",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -395,13 +394,13 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "inverse": false,
-            "showButtons": false,
+            "showButtons": true,
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care/appt\" data-toolbar=\"-mbrBtnMove\">MAKE AN APPOINTMENT TODAY!</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
+          "text": "Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br><br>"
         },
         {
           "_tags": [
@@ -433,7 +432,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/318-1400x1901.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-1400x2099.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -499,10 +498,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -616,22 +615,20 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "48px"
+              "color": "#fff"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff",
-              "font-size": "20px"
+              "color": "#ffffff"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-3u",
+          "_anchor": "msg-box2-4t",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -645,13 +642,13 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "inverse": false,
-            "showButtons": false,
+            "showButtons": true,
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care/appt\" data-toolbar=\"-mbrBtnMove\">MAKE AN APPOINTMENT TODAY!</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
+          "text": "Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br><br>"
         },
         {
           "_tags": [
@@ -802,10 +799,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -919,22 +916,20 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "48px"
+              "color": "#fff"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff",
-              "font-size": "20px"
+              "color": "#ffffff"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-3x",
+          "_anchor": "msg-box2-4u",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -948,13 +943,13 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "inverse": false,
-            "showButtons": false,
+            "showButtons": true,
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care/appt\" data-toolbar=\"-mbrBtnMove\">MAKE AN APPOINTMENT TODAY!</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
+          "text": "Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br><br>"
         },
         {
           "_tags": [
@@ -1109,10 +1104,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1226,22 +1221,20 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "48px"
+              "color": "#fff"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff",
-              "font-size": "20px"
+              "color": "#ffffff"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-3y",
+          "_anchor": "msg-box2-4v",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1255,13 +1248,13 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "inverse": false,
-            "showButtons": false,
+            "showButtons": true,
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care/appt\" data-toolbar=\"-mbrBtnMove\">MAKE AN APPOINTMENT TODAY!</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
+          "text": "Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br><br>"
         },
         {
           "_styles": {
@@ -1331,10 +1324,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1448,22 +1441,20 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "48px"
+              "color": "#fff"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff",
-              "font-size": "20px"
+              "color": "#ffffff"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-41",
+          "_anchor": "msg-box2-4w",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1477,13 +1468,13 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "inverse": false,
-            "showButtons": false,
+            "showButtons": true,
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care/appt\" data-toolbar=\"-mbrBtnMove\">MAKE AN APPOINTMENT TODAY!</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
+          "text": "Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br><br>"
         },
         {
           "_styles": {
@@ -1556,22 +1547,22 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#055b5b"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#077d7d!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#088b8b"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1673,22 +1664,20 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "48px"
+              "color": "#fff"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff",
-              "font-size": "20px"
+              "color": "#ffffff"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-42",
+          "_anchor": "msg-box2-4x",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1702,13 +1691,13 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "inverse": false,
-            "showButtons": false,
+            "showButtons": true,
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care/appt\" data-toolbar=\"-mbrBtnMove\">MAKE AN APPOINTMENT TODAY!</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
+          "text": "Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br><br>"
         },
         {
           "_inherit": "msg-box8",
@@ -1790,22 +1779,22 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#055b5b"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#077d7d!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#088b8b"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1907,22 +1896,20 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "48px"
+              "color": "#fff"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff",
-              "font-size": "20px"
+              "color": "#ffffff"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-44",
+          "_anchor": "msg-box2-4y",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1936,13 +1923,13 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "inverse": false,
-            "showButtons": false,
+            "showButtons": true,
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care/appt\" data-toolbar=\"-mbrBtnMove\">MAKE AN APPOINTMENT TODAY!</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
+          "text": "Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br><br>"
         },
         {
           "_inherit": "msg-box8",
@@ -2026,22 +2013,22 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#055b5b"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#077d7d!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#088b8b"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2143,22 +2130,20 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "48px"
+              "color": "#fff"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff",
-              "font-size": "20px"
+              "color": "#ffffff"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-47",
+          "_anchor": "msg-box2-4z",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2172,13 +2157,13 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "inverse": false,
-            "showButtons": false,
+            "showButtons": true,
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care/appt\" data-toolbar=\"-mbrBtnMove\">MAKE AN APPOINTMENT TODAY!</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
+          "text": "Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br><br>"
         },
         {
           "_inherit": "msg-box8",
@@ -2262,22 +2247,22 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#055b5b"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#077d7d!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#088b8b"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2379,22 +2364,20 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "48px"
+              "color": "#fff"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff",
-              "font-size": "20px"
+              "color": "#ffffff"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-48",
+          "_anchor": "msg-box2-50",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2408,13 +2391,13 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "inverse": false,
-            "showButtons": false,
+            "showButtons": true,
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care/appt\" data-toolbar=\"-mbrBtnMove\">MAKE AN APPOINTMENT TODAY!</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
+          "text": "Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br><br>"
         },
         {
           "_inherit": "msg-box8",
@@ -2498,22 +2481,22 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#055b5b"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#077d7d!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#088b8b"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2615,22 +2598,20 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "48px"
+              "color": "#fff"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff",
-              "font-size": "20px"
+              "color": "#ffffff"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-4b",
+          "_anchor": "msg-box2-51",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2644,13 +2625,13 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "inverse": false,
-            "showButtons": false,
+            "showButtons": true,
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care/appt\" data-toolbar=\"-mbrBtnMove\">MAKE AN APPOINTMENT TODAY!</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
+          "text": "Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br><br>"
         },
         {
           "_tags": [
@@ -2812,22 +2793,22 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#055b5b"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#077d7d!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#088b8b"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2929,22 +2910,20 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "48px"
+              "color": "#fff"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff",
-              "font-size": "20px"
+              "color": "#ffffff"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-4c",
+          "_anchor": "msg-box2-52",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2958,13 +2937,13 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "inverse": false,
-            "showButtons": false,
+            "showButtons": true,
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care/appt\" data-toolbar=\"-mbrBtnMove\">MAKE AN APPOINTMENT TODAY!</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
+          "text": "Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br><br>"
         },
         {
           "_styles": {
@@ -3179,22 +3158,22 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#055b5b"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#077d7d!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#088b8b"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -3296,22 +3275,20 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "48px"
+              "color": "#fff"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff",
-              "font-size": "20px"
+              "color": "#ffffff"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-4e",
+          "_anchor": "msg-box2-53",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -3325,13 +3302,13 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "inverse": false,
-            "showButtons": false,
+            "showButtons": true,
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care/appt\" data-toolbar=\"-mbrBtnMove\">MAKE AN APPOINTMENT TODAY!</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
+          "text": "Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br><br>"
         },
         {
           "_inherit": "msg-box8",
@@ -3505,22 +3482,22 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#7d6239"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#957644!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#a07e49"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -3635,22 +3612,20 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "48px"
+              "color": "#fff"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff",
-              "font-size": "20px"
+              "color": "#ffffff"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-4g",
+          "_anchor": "msg-box2-54",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -3664,13 +3639,13 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "inverse": false,
-            "showButtons": false,
+            "showButtons": true,
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care/appt\" data-toolbar=\"-mbrBtnMove\">MAKE AN APPOINTMENT TODAY!</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
+          "text": "Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br><br>"
         },
         {
           "_tags": [
@@ -3765,22 +3740,22 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#055b5b"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#077d7d!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#088b8b"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -3882,22 +3857,20 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "48px"
+              "color": "#fff"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff",
-              "font-size": "20px"
+              "color": "#ffffff"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-4i",
+          "_anchor": "msg-box2-55",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -3911,13 +3884,13 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "inverse": false,
-            "showButtons": false,
+            "showButtons": true,
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care/appt\" data-toolbar=\"-mbrBtnMove\">MAKE AN APPOINTMENT TODAY!</a>",
           "title": "WOODBRIDGE EYE CARE",
-          "text": "3460 W. FM 544 Suite #550 Wylie, TX 75098<br>(972) 429-3501&nbsp;"
+          "text": "Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br><br>"
         },
         {
           "_tags": [
@@ -3970,22 +3943,22 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#055b5b"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#077d7d!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#088b8b"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
