@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Woodbridge Eye Care",
-    "currentPage": "index.html",
+    "currentPage": "OurStaff.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -286,7 +286,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-20-at-8-253x128.png",
+              "src": "@PROJECT_PATH@/assets/images/24-273x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -712,7 +712,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dania-copy-3-600x578.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
