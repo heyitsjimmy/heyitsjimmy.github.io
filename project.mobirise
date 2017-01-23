@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Woodbridge Eye Care",
-    "currentPage": "OurStaff.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11",
-    "uniqCompNum": 201,
+    "uniqCompNum": 202,
     "versionPublish": "3.11"
   },
   "pages": {
@@ -36,24 +36,17 @@
       },
       "components": [
         {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#ffffff"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-4o",
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-5l",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
+            "imageSize": "62",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "parallax": true,
+            "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#088b8b",
             "bgColorRadio": true,
@@ -63,15 +56,37 @@
             "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showTitle": true,
-            "showText": true
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": false,
+            "showText": false,
+            "showButtons": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care/appt\" data-toolbar=\"-mbrBtnMove\">MAKE AN APPOINTMENT TODAY!</a>",
-          "title": "WOODBRIDGE EYE CARE",
-          "text": "Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<div>(972) 429-3501<br><br></div>"
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/24-1400x656.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://reviews.solutionreach.com/vs/woodbridge_eye_care/appt\" data-toolbar=\"-mbrBtnMove\">MAKE AN APPOINTMENT TODAY!</a>"
         },
         {
           "_inherit": "gallery1",
@@ -335,7 +350,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-20-at-8-128x64.png",
+              "src": "@PROJECT_PATH@/assets/images/24-128x60.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -349,7 +364,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
+          "text1": "<strong>Address</strong><br>Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: info@woodbridge-eyecare.com<br>\nPhone: (972) 429-3501<br>Fax: (972)442-4916<br><br>",
           "text3": "<p><strong>Hours</strong><br>M: 10-6<br>T:&nbsp;10-6<br>W: 10-7<br>Th: 10-6<br>F: 10-5<br>S: 9-4<br>Su: Closed</p>"
         }
@@ -547,7 +562,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-20-at-8-253x128.png",
+              "src": "@PROJECT_PATH@/assets/images/24-273x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -583,7 +598,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-20-at-8-128x64.png",
+              "src": "@PROJECT_PATH@/assets/images/24-128x60.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -597,7 +612,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
+          "text1": "<strong>Address</strong><br>Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: info@woodbridge-eyecare.com<br>\nPhone: (972) 429-3501<br>Fax: (972)442-4916<br><br>",
           "text3": "<p><strong>Hours</strong><br>M: 10-6<br>T:&nbsp;10-6<br>W: 10-7<br>Th: 10-6<br>F: 10-5<br>S: 9-4<br>Su: Closed</p>"
         }
@@ -712,7 +727,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/dania-copy-3-600x578.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dania-copy-4-600x578.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -848,7 +863,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-20-at-8-253x128.png",
+              "src": "@PROJECT_PATH@/assets/images/24-273x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -884,7 +899,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-20-at-8-128x64.png",
+              "src": "@PROJECT_PATH@/assets/images/24-128x60.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -898,7 +913,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
+          "text1": "<strong>Address</strong><br>Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: info@woodbridge-eyecare.com<br>\nPhone: (972) 429-3501<br>Fax: (972)442-4916<br><br>",
           "text3": "<p><strong>Hours</strong><br>M: 10-6<br>T:&nbsp;10-6<br>W: 10-7<br>Th: 10-6<br>F: 10-5<br>S: 9-4<br>Su: Closed</p>"
         }
@@ -1153,7 +1168,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-20-at-8-253x128.png",
+              "src": "@PROJECT_PATH@/assets/images/24-273x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -1189,7 +1204,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-20-at-8-128x64.png",
+              "src": "@PROJECT_PATH@/assets/images/24-128x60.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -1203,7 +1218,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
+          "text1": "<strong>Address</strong><br>Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: info@woodbridge-eyecare.com<br>\nPhone: (972) 429-3501<br>Fax: (972)442-4916<br><br>",
           "text3": "<p><strong>Hours</strong><br>M: 10-6<br>T:&nbsp;10-6<br>W: 10-7<br>Th: 10-6<br>F: 10-5<br>S: 9-4<br>Su: Closed</p>"
         }
@@ -1373,7 +1388,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-20-at-8-253x128.png",
+              "src": "@PROJECT_PATH@/assets/images/24-273x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -1409,7 +1424,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-20-at-8-128x64.png",
+              "src": "@PROJECT_PATH@/assets/images/24-128x60.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -1423,7 +1438,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
+          "text1": "<strong>Address</strong><br>Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: info@woodbridge-eyecare.com<br>\nPhone: (972) 429-3501<br>Fax: (972)442-4916<br><br>",
           "text3": "<p><strong>Hours</strong><br>M: 10-6<br>T:&nbsp;10-6<br>W: 10-7<br>Th: 10-6<br>F: 10-5<br>S: 9-4<br>Su: Closed</p>"
         }
@@ -1596,7 +1611,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-20-at-8-253x128.png",
+              "src": "@PROJECT_PATH@/assets/images/24-273x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -1632,7 +1647,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-20-at-8-128x64.png",
+              "src": "@PROJECT_PATH@/assets/images/24-128x60.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -1646,7 +1661,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
+          "text1": "<strong>Address</strong><br>Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: info@woodbridge-eyecare.com<br>\nPhone: (972) 429-3501<br>Fax: (972)442-4916<br><br>",
           "text3": "<p><strong>Hours</strong><br>M: 10-6<br>T:&nbsp;10-6<br>W: 10-7<br>Th: 10-6<br>F: 10-5<br>S: 9-4<br>Su: Closed</p>"
         }
@@ -1878,7 +1893,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
+          "text1": "<strong>Address</strong><br>Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: info@woodbridge-eyecare.com<br>\nPhone: (972) 429-3501<br>Fax: (972)442-4916<br><br>",
           "text3": "<p><strong>Hours</strong><br>M: 10-6<br>T:&nbsp;10-6<br>W: 10-7<br>Th: 10-6<br>F: 10-5<br>S: 9-4<br>Su: Closed</p>"
         }
@@ -2112,7 +2127,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
+          "text1": "<strong>Address</strong><br>Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: info@woodbridge-eyecare.com<br>\nPhone: (972) 429-3501<br>Fax: (972)442-4916<br><br>",
           "text3": "<p><strong>Hours</strong><br>M: 10-6<br>T:&nbsp;10-6<br>W: 10-7<br>Th: 10-6<br>F: 10-5<br>S: 9-4<br>Su: Closed</p>"
         }
@@ -2346,7 +2361,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
+          "text1": "<strong>Address</strong><br>Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: info@woodbridge-eyecare.com<br>\nPhone: (972) 429-3501<br>Fax: (972)442-4916<br><br>",
           "text3": "<p><strong>Hours</strong><br>M: 10-6<br>T:&nbsp;10-6<br>W: 10-7<br>Th: 10-6<br>F: 10-5<br>S: 9-4<br>Su: Closed</p>"
         }
@@ -2580,7 +2595,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
+          "text1": "<strong>Address</strong><br>Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: info@woodbridge-eyecare.com<br>\nPhone: (972) 429-3501<br>Fax: (972)442-4916<br><br>",
           "text3": "<p><strong>Hours</strong><br>M: 10-6<br>T:&nbsp;10-6<br>W: 10-7<br>Th: 10-6<br>F: 10-5<br>S: 9-4<br>Su: Closed</p>"
         }
@@ -2892,7 +2907,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
+          "text1": "<strong>Address</strong><br>Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: info@woodbridge-eyecare.com<br>\nPhone: (972) 429-3501<br>Fax: (972)442-4916<br><br>",
           "text3": "<p><strong>Hours</strong><br>M: 10-6<br>T:&nbsp;10-6<br>W: 10-7<br>Th: 10-6<br>F: 10-5<br>S: 9-4<br>Su: Closed</p>"
         }
@@ -3257,7 +3272,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
+          "text1": "<strong>Address</strong><br>Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: info@woodbridge-eyecare.com<br>\nPhone: (972) 429-3501<br>Fax: (972)442-4916<br><br>",
           "text3": "<p><strong>Hours</strong><br>M: 10-6<br>T:&nbsp;10-6<br>W: 10-7<br>Th: 10-6<br>F: 10-5<br>S: 9-4<br>Su: Closed</p>"
         }
@@ -3594,7 +3609,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
+          "text1": "<strong>Address</strong><br>Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: info@woodbridge-eyecare.com<br>\nPhone: (972) 429-3501<br>Fax: (972)442-4916<br><br>",
           "text3": "<p><strong>Hours</strong><br>M: 10-6<br>T:&nbsp;10-6<br>W: 10-7<br>Th: 10-6<br>F: 10-5<br>S: 9-4<br>Su: Closed</p>"
         }
@@ -3839,7 +3854,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
+          "text1": "<strong>Address</strong><br>Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: info@woodbridge-eyecare.com<br>\nPhone: (972) 429-3501<br>Fax: (972)442-4916<br><br>",
           "text3": "<p><strong>Hours</strong><br>M: 10-6<br>T:&nbsp;10-6<br>W: 10-7<br>Th: 10-6<br>F: 10-5<br>S: 9-4<br>Su: Closed</p>"
         }
@@ -4042,7 +4057,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
+          "text1": "<strong>Address</strong><br>Woodbridge Crossing Shopping Center<br>3460 W. FM 544 Suite #550<br>Wylie, TX 75098<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: info@woodbridge-eyecare.com<br>\nPhone: (972) 429-3501<br>Fax: (972)442-4916<br><br>",
           "text3": "<p><strong>Hours</strong><br>M: 10-6<br>T:&nbsp;10-6<br>W: 10-7<br>Th: 10-6<br>F: 10-5<br>S: 9-4<br>Su: Closed</p>"
         }
