@@ -157,7 +157,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
+            "inverse": true,
             "showButtons": true,
             "showText": true,
             "showTitle": false
@@ -236,10 +236,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -271,7 +271,7 @@
           "_anchor": "ext_menu-d",
           "_params": {
             "bgColor": "#2e2e2e",
-            "fontSize": "0.8",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -534,7 +534,7 @@
           "_anchor": "ext_menu-s",
           "_params": {
             "bgColor": "#2e2e2e",
-            "fontSize": "0.8",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -837,7 +837,7 @@
           "_anchor": "ext_menu-z",
           "_params": {
             "bgColor": "#2e2e2e",
-            "fontSize": "0.8",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1144,7 +1144,7 @@
           "_anchor": "ext_menu-17",
           "_params": {
             "bgColor": "#2e2e2e",
-            "fontSize": "0.8",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1366,7 +1366,7 @@
           "_anchor": "ext_menu-1e",
           "_params": {
             "bgColor": "#2e2e2e",
-            "fontSize": "0.8",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1591,7 +1591,7 @@
           "_anchor": "ext_menu-1m",
           "_params": {
             "bgColor": "#2e2e2e",
-            "fontSize": "0.8",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1825,7 +1825,7 @@
           "_anchor": "ext_menu-1s",
           "_params": {
             "bgColor": "#2e2e2e",
-            "fontSize": "0.8",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -2061,7 +2061,7 @@
           "_anchor": "ext_menu-1y",
           "_params": {
             "bgColor": "#2e2e2e",
-            "fontSize": "0.8",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -2297,7 +2297,7 @@
           "_anchor": "ext_menu-23",
           "_params": {
             "bgColor": "#2e2e2e",
-            "fontSize": "0.8",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -2533,7 +2533,7 @@
           "_anchor": "ext_menu-28",
           "_params": {
             "bgColor": "#2e2e2e",
-            "fontSize": "0.8",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -2847,7 +2847,7 @@
           "_anchor": "ext_menu-2d",
           "_params": {
             "bgColor": "#2e2e2e",
-            "fontSize": "0.8",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -3214,7 +3214,7 @@
           "_anchor": "ext_menu-2s",
           "_params": {
             "bgColor": "#2e2e2e",
-            "fontSize": "0.8",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -3540,7 +3540,7 @@
           "_anchor": "ext_menu-34",
           "_params": {
             "bgColor": "#2e2e2e",
-            "fontSize": "0.8",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -3800,7 +3800,7 @@
           "_anchor": "ext_menu-3f",
           "_params": {
             "bgColor": "#2e2e2e",
-            "fontSize": "0.8",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -4005,7 +4005,7 @@
           "_anchor": "ext_menu-3m",
           "_params": {
             "bgColor": "#2e2e2e",
-            "fontSize": "0.8",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
