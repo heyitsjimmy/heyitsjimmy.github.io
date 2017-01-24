@@ -28,8 +28,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Woodbridge Eye Care",
+        "meta_descr": "Woodbridge Eye Care is located next to VisionWorks.  Our optometrist and glaucoma specialist, Doctor Nguyen provides comprehensive eye exams and care to adults and children in the Wylie, Murphy, Sachse, Garland, Rowlett, and surrounding areas.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -386,8 +386,8 @@
     },
     "DrAnnyNguyen..html": {
       "settings": {
-        "title": "",
-        "meta_descr": "",
+        "title": "Woodbridge Eye Care - Dr. Anny Nguyen",
+        "meta_descr": "At Woodbridge Eye Care, Our optometrist and glaucoma specialist, Doctor Nguyen provides comprehensive eye exams and care to adults and children in the Wylie, Murphy, Sachse, Garland, Rowlett, and surrounding areas.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -438,7 +438,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-11-1400x3860.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-11-1400x3861.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -663,8 +663,8 @@
     },
     "OurStaff.html": {
       "settings": {
-        "title": "",
-        "meta_descr": "",
+        "title": "Woodbridge Eye Care - Our Staff",
+        "meta_descr": "The staff at Woodbridge Eye Care strive for excellence in customer service and providing clear explanations to our patients. ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -715,7 +715,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-11-1400x3860.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-11-1400x3861.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -993,8 +993,8 @@
     },
     "Services.html": {
       "settings": {
-        "title": "",
-        "meta_descr": "",
+        "title": "Woodbridge Eye Care - Services",
+        "meta_descr": "Woodbridge Eye Care provides multiple services: comprehensive eye examinations, contact lens evaluations, pediatric eye examinaions, medical eye care, consultation and comanagement, and ocular emergencies",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1045,7 +1045,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-11-1400x3860.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-11-1400x3861.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1327,8 +1327,8 @@
     },
     "ComprehensiveEyeExaminations.html": {
       "settings": {
-        "title": "",
-        "meta_descr": "",
+        "title": "Woodbridge Eye Care - Commprhensive Eye Exams",
+        "meta_descr": "Comprhensive Eye Exams for all our patients.  Dilated Examinations are also available.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1379,7 +1379,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-11-1400x3860.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-11-1400x3861.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1576,8 +1576,8 @@
     },
     "ContactLens.html": {
       "settings": {
-        "title": "",
-        "meta_descr": "",
+        "title": "Woodbridge Eye Care - Contact Lens Evaluations",
+        "meta_descr": "Contact Lens Evaluations are available at Woodbridge Eye Care for any patients who use or would like to try out Contact Lenses ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1628,7 +1628,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-11-1400x3860.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-11-1400x3861.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1828,8 +1828,8 @@
     },
     "medicaleyecare.html": {
       "settings": {
-        "title": "",
-        "meta_descr": "",
+        "title": "Woodbridge Eye Care - Medical Eye Care",
+        "meta_descr": "Woodbridge Ey Care treats Medical Eye problems;  This includes macular degeneration, glaucoma, diabetic exams, dry eyes and ocular trauma",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1880,7 +1880,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-11-1400x3860.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-11-1400x3861.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -2089,8 +2089,8 @@
     },
     "medicaleyecare2.html": {
       "settings": {
-        "title": "",
-        "meta_descr": "",
+        "title": "Woodbridge Eye Care - More Medical Care",
+        "meta_descr": "Woodbridge Eye Care can help with Dry Eye Management, Glaucoma Management, Macular Degeneration, and Diabetic Examinations",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -2141,7 +2141,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-11-1400x3860.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-11-1400x3861.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -2352,8 +2352,8 @@
     },
     "Consultation&Comanagement.html": {
       "settings": {
-        "title": "",
-        "meta_descr": "",
+        "title": "Woodbridge Eye Care - Consultation and Co-Management",
+        "meta_descr": "At Woodbridge Eye Care, Dr. Nguyen works closely with many surgeons to consult and co-manage patients pre and post LASIK and Cataract procedures.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -2404,7 +2404,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-11-1400x3860.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-11-1400x3861.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -2615,8 +2615,8 @@
     },
     "Ocularemergencies.html": {
       "settings": {
-        "title": "",
-        "meta_descr": "",
+        "title": "Woodbridge Eye Care - Ocular Emergencies",
+        "meta_descr": "Woodbridge Eye Care can help with any vision or eye emergencies that you may have.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -2667,7 +2667,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-11-1400x3860.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-11-1400x3861.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -2878,8 +2878,8 @@
     },
     "Technology.html": {
       "settings": {
-        "title": "",
-        "meta_descr": "",
+        "title": "Woodbridge Eye Care - Advanced Technology",
+        "meta_descr": "At Woodbridge Eye Care, we utilize multiple advanced technologies to ensure that our patients get the best treatment available. ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -2930,7 +2930,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-11-1400x3860.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-11-1400x3861.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -3219,8 +3219,8 @@
     },
     "Insurances.html": {
       "settings": {
-        "title": "",
-        "meta_descr": "",
+        "title": "Woodbridge Eye Care - Insurances Accepted",
+        "meta_descr": "At Woodbridge Eye Care, we accept many types of insurance, please see if your insurance is available, and if it is not, feel free to call us so that we can help you as best as possible. ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -3271,7 +3271,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-11-1400x3860.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-11-1400x3861.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -3613,8 +3613,8 @@
     },
     "forms.html": {
       "settings": {
-        "title": "",
-        "meta_descr": "",
+        "title": "Woodbridge Eye Care - Patient Forms",
+        "meta_descr": "At Woodbridge Eye Care, we attempt to provide our patients the most convenience as possible, if you would like to save time, you can begin filling out paperwork that will appear right in our computer system and also print out forms that you can bring into our office!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -3665,7 +3665,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-11-1400x3860.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-11-1400x3861.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -3979,8 +3979,8 @@
     },
     "Contactus.html": {
       "settings": {
-        "title": "",
-        "meta_descr": "",
+        "title": "Woodbridge Eye Care - Contact Us",
+        "meta_descr": "We want you to know that at Woodbridge Eye Care, we are her for you. If you need to contact us for any reason, please give us a call or utilize this form that will be responded to as soon as possible",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -4031,7 +4031,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-11-1400x3860.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-11-1400x3861.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -4253,8 +4253,8 @@
     },
     "mapanddirections.html": {
       "settings": {
-        "title": "",
-        "meta_descr": "",
+        "title": "Woodbridge Eye Care - Map and Directions",
+        "meta_descr": "Woodbridge Eye Care is easy to find, readily available on google maps. To make things easier search for directions right from our website!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -4305,7 +4305,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-11-1400x3860.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-23-at-11-1400x3861.png",
               "link": "",
               "alt": "",
               "title": "",
